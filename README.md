@@ -9,12 +9,12 @@ I'm also hoping to add some nice resources later on.
 
 <ul>
 
-<h3><li> Problem:</li></h3>
+<h3><li> Problem-case: </li></h3>
 	Deliver a simple number guessing game where the user thinks of a number and the 
 	computer attemps to find the number by asking the user if the number is higher
 	or lower than a guess. 
 
-<h3><li> Problem:</li></h3>
+<h3><li> Solution-logic: </li></h3>
 	I solved this by implementing basic refractoring instead of rewriting
 	already implemented code. <br/>
 	The core code is quite basic; it uses <code>Update()</code> to 
