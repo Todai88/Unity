@@ -6,11 +6,11 @@ I'm also hoping to add some nice resources later on.
 <ol>
 <li><h2><b>Number Wizard (console game):</b></h2></li> 
 <ul>
-<li><h3><b> Problem: </b></h3></li>
+<h3><li> Problem: </li></h3>
 	Deliver a simple number guessing game where the user thinks of a number and the 
 	computer attemps to find the number by asking the user if the number is higher
 	or lower than a guess. 
-<li><h3><b> Learning outcomes: </b></h3>
+<h3><li> Learning outcomes: <li></h3>
 	Quite basic really. I've got experience using C# and .NET.
 	The only real problem I faced was working with Unity's
 	`KeyDown`-events.
