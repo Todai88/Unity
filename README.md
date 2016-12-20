@@ -24,7 +24,7 @@ I'm also hoping to add some nice resources later on.
 	So what I sorted that out by adding a 
 	boolean (`flag`) to handle the state
 	as well as 'flushing' the current `Input`-buffer
-	by using `Input.ResetInputAxes()`.
+	by using ```Input.ResetInputAxes()```.
 </ul>
 
 </ol>
