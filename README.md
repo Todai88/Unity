@@ -13,6 +13,17 @@ I'm also hoping to add some nice resources later on.
 	Deliver a simple number guessing game where the user thinks of a number and the 
 	computer attemps to find the number by asking the user if the number is higher
 	or lower than a guess. 
+
+<h3><li> Problem:</li></h3>
+	I solved this by implementing basic refractoring instead of rewriting
+	already implemented code. <br/>
+	The core code is quite basic; it uses <code>Update()</code> to 
+	capture <code>KeyDown</code>-events (up/down-arrow and return).
+	If return is pushed the user is prompted to play again,
+	if the user pushes return again the game resets by calling
+	<code>StartingGame</code> which resets all the global variables.
+	If up/down-arrow is pushed, the variables are manipulated
+	and a basic calculation takes place (<code>(min + max) / 2 </code>).
 <h3><li> Learning outcomes: </li></h3>
 	Quite a basic assignment, really. 
 	<br/><br/>
