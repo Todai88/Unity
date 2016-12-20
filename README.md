@@ -15,11 +15,11 @@ I'm also hoping to add some nice resources later on.
 	or lower than a guess. 
 <h3><li> Learning outcomes: </li></h3>
 	Quite a basic assignment really. 
-	
+	<Enter>
 	I've got experience using C# and .NET.
 	The only real problem I faced was working with Unity's
 	<code>GetKeyDown</code>-events. 
-
+	<Enter>
 	Mainly I had a problem restaring the game loop, since
 	both confirming that a number was correct and 
 	confirming that you wish to play again use
