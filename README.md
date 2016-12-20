@@ -15,8 +15,8 @@ I'm also hoping to add some nice resources later on.
 	computer attemps to find the number by asking the user if the number is higher
 	or lower than a guess.
 	<br/><br/>
-	The user's primary input should be up/down-arrows and return (enter):<br/>
-	<ul>
+	The user's primary input should be up/down-arrows and return (enter):
+	<ul><br/>
 	<li>If up is pressed it means that the computer's guess was too low.</li>
 	<li>If down is pressed it means that the computer's guess was too high.</li>
 	<li>If enter is pressed it means that the computer guessed the right number.</li>
