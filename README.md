@@ -4,9 +4,12 @@ This will serve as a repository for me to track my progress throughout my Unity 
 I'm also hoping to add some nice resources later on.
 
 <ol>
+
 <h2><li><b>Number Wizard (console game):</b></li></h2>
+
 <ul>
-<li><h3> Problem: </h3></li>
+
+<h3><li> Problem:</li></h3>
 	Deliver a simple number guessing game where the user thinks of a number and the 
 	computer attemps to find the number by asking the user if the number is higher
 	or lower than a guess. 
@@ -23,3 +26,5 @@ I'm also hoping to add some nice resources later on.
 	as well as 'flushing' the current `Input`-buffer
 	by using `Input.ResetInputAxes()`.
 </ul>
+
+</ol>
