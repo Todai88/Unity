@@ -23,7 +23,7 @@ I'm also hoping to add some nice resources later on.
 	if the user pushes return again the game resets by calling
 	<code>StartingGame</code> which resets all the global variables.<br/>
 	If up/down-arrow is pushed, the variables are manipulated
-	and a basic calculation takes place (<code>(min + max) / 2 </code>).
+	and a basic calculation takes place: <code>(min + max) / 2 </code>.
 	This continues to happen until the program has guessed the correct number.
 <h3><li> Learning outcomes: </li></h3>
 	Quite a basic assignment, really. 
