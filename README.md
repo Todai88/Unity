@@ -25,6 +25,7 @@ I'm also hoping to add some nice resources later on.
 	boolean (`flag`) to handle the state
 	as well as 'flushing' the current `Input`-buffer
 	by using ```Input.ResetInputAxes()```.
+	`<addr>`
 </ul>
 
 </ol>
