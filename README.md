@@ -19,7 +19,7 @@ I'm also hoping to add some nice resources later on.
 	I've got experience using C# and .NET.
 	The only real problem I faced was working with Unity's
 	<code>GetKeyDown</code>-events. 
-	<br/><br/>
+	<br/>
 	Mainly I had a problem restaring the game loop, since
 	both confirming that a number was correct and 
 	confirming that you wish to play again use
