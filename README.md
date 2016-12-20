@@ -37,7 +37,7 @@ I'm also hoping to add some nice resources later on.
 	confirming that you wish to play again use
 	<code>KeyCode.Return</code>.
 	So what I sorted that out by adding a 
-	boolean (`flag`) to handle the state
+	<code>boolean</code> (named 'flag') to handle the state
 	as well as 'flushing' the current <code>Input-buffer</code>
 	by using <code>Input.ResetInputAxes()</code>.
 </ul>
