@@ -14,12 +14,12 @@ I'm also hoping to add some nice resources later on.
 	computer attemps to find the number by asking the user if the number is higher
 	or lower than a guess. 
 <h3><li> Learning outcomes: </li></h3>
-	Quite a basic assignment really. 
-	<br/>
+	Quite a basic assignment, really. 
+	<br/><br/>
 	I've got experience using C# and .NET.
 	The only real problem I faced was working with Unity's
 	<code>GetKeyDown</code>-events. 
-	<br/>
+	<br/><br/>
 	Mainly I had a problem restaring the game loop, since
 	both confirming that a number was correct and 
 	confirming that you wish to play again use
