@@ -18,7 +18,7 @@ I'm also hoping to add some nice resources later on.
 	I solved this by implementing basic refractoring instead of rewriting
 	already implemented code. <br/>
 	The core code is quite basic; it uses <code>Update()</code> to 
-	capture <b><code>KeyDown</code>-events</b> (up/down-arrow and return).<br/>
+	capture<code>KeyDown-events</code> (up/down-arrow and return).<br/>
 	If return is pushed the user is prompted to play again,
 	if the user pushes return again the game resets by calling
 	<code>StartingGame</code> which resets all the global variables.<br/>
@@ -30,7 +30,7 @@ I'm also hoping to add some nice resources later on.
 	<br/><br/>
 	I've got experience using C# and .NET.
 	The only real problem I faced was working with Unity's
-	<b><code>GetKeyDown</code>-events.</b>
+	<code>GetKeyDown-events</code>.
 	<br/>
 	Mainly I had a problem restaring the game loop, since
 	both confirming that a number was correct and 
@@ -38,7 +38,7 @@ I'm also hoping to add some nice resources later on.
 	<code>KeyCode.Return</code>.
 	So what I sorted that out by adding a 
 	boolean (`flag`) to handle the state
-	as well as 'flushing' the current <b><code>Input</code>-buffer</b>
+	as well as 'flushing' the current <code>Input-buffer</code>
 	by using <code>Input.ResetInputAxes()</code>.
 </ul>
 
